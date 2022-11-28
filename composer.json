@@ -12,9 +12,9 @@
             "email": "ather@echovisionllc.com"
         }],
     "require": {
-        "illuminate/support": "~5.3|~6.0|~7.0|~8.0",
-        "illuminate/validation": "~5.3|~6.0|~7.0|~8.0",
-        "nesbot/carbon": "~1.0|~2.0"
+        "illuminate/support": "~8.0|~9.0",
+        "illuminate/validation": "~8.0|~9.0",
+        "nesbot/carbon": "~2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0|~7.0|~8.0|~9.0"
