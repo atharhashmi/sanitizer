@@ -1,6 +1,7 @@
 {
     "name": "atharhashmi/sanitizer",
     "description": "Data sanitizer and Laravel 8 form requests with input sanitation.",
+    "homepage": "https://github.com/atharhashmi/sanitizer",
     "keywords": ["laravel", "sanitation", "input sanitation", "input sanitizer", "input", "transform input", "input filter"],
     "license": "MIT",
     "authors": [{
